@@ -1,0 +1,52 @@
+Type,Instrument,Scale,Start Month,Start Year,End Month,End Year
+Active Fires  - Terra/MODIS,MOD14A1_M_FIRE,https://neo.sci.gsfc.nasa.gov/palettes/modis_fire_l3.png,3,2000,8,2020
+Aerosol Optical Thickness  - Terra/MODIS,MODAL2_M_AER_OD,https://neo.sci.gsfc.nasa.gov/palettes/modis_aer_od.png,3,2000,8,2020
+Aerosol Optical Thickness - Aqua/MODIS,MYDAL2_M_AER_OD,https://neo.sci.gsfc.nasa.gov/palettes/modis_aer_od.png,7,2002,8,2020
+Aerosol Particle Radius - Terra/MODIS,MODAL2_M_AER_RA,https://neo.sci.gsfc.nasa.gov/palettes/modis_aer_ra.png,1,2005,8,2016
+Aerosol Particle Radius - Aqua/MODIS ,MYDAL2_M_AER_RA,https://neo.sci.gsfc.nasa.gov/palettes/modis_aer_ra.png,7,2002,8,2016
+Albedo ,MCD43C3_M_BSA,https://neo.sci.gsfc.nasa.gov/palettes/modis_bs_albedo.png,2,2000,1,2017
+Average Land Surface Temperature - Day ,MOD_LSTD_CLIM_M,https://neo.sci.gsfc.nasa.gov/palettes/modis_lst.png,1,2001,11,2001
+Average Land Surface Temperature - Night,MOD_LSTN_CLIM_M,https://neo.sci.gsfc.nasa.gov/palettes/modis_lst.png,1,2001,11,2001
+Average Sea Surface Temperature - AVHRR,AVHRR_CLIM_M,https://neo.sci.gsfc.nasa.gov/palettes/sst_35.png,1,1985,11,1985
+Bathymetry - GEBCO,GEBCO_BATHY,https://neo.sci.gsfc.nasa.gov/palettes/gebco_bathymetry.png,-1,2002,-1,2002
+Carbon Monoxide - Terra/MOPITT,MOP_CO_M,https://neo.sci.gsfc.nasa.gov/palettes/mopitt_co.png,3,2000,1,2017
+Chlorophyll Concentration  - Aqua/MODIS,MY1DMM_CHLORA,https://neo.sci.gsfc.nasa.gov/palettes/modis_chlor.png,7,2002,7,2020
+Cloud Fraction - Terra/MODIS,MODAL2_M_CLD_FR,https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_fr.png,2,2000,8,2020
+Cloud Fraction - Aqua/MODIS,MYDAL2_M_CLD_FR,https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_fr.png,7,2002,8,2020
+Cloud Optical Thickness - Terra/MODIS,MODAL2_M_CLD_OT,https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_ot.png,2,2000,8,2020
+Cloud Optical Thickness - Aqua/MODIS,MYDAL2_M_CLD_OT,https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_ot.png,7,2002,8,2020
+Cloud Particle Radius - Terra/MODIS,MODAL2_M_CLD_RD,https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_rd.png,2,2000,8,2020
+Cloud Particle Radius - Aqua/MODIS,MYDAL2_M_CLD_RD,https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_rd.png,7,2002,8,2020
+Cloud Water Content - Terra/MODIS,MODAL2_M_CLD_WP,https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_wp.png,2,2000,8,2020
+Cloud Water Content - Aqua/MODIS,MYDAL2_M_CLD_WP,https://neo.sci.gsfc.nasa.gov/palettes/modis_cld_wp.png,7,2002,8,2020
+Global Temperature Anomaly ,GISS_TA_M,https://neo.sci.gsfc.nasa.gov/palettes/giss_tanom_m.png,1,1880,7,2020
+Global Temperature Anomaly ,GISS_TA_Y,https://neo.sci.gsfc.nasa.gov/palettes/giss_tanom_m.png,-1,1880,-1,2019
+Greenland / Antarctica Elevation,ICESAT_ELEV_G,https://neo.sci.gsfc.nasa.gov/palettes/icesat_elevation.png,-1,2003,-1,2003
+Land Surface Temperature Anomaly - Day,MOD_LSTAD_M,https://neo.sci.gsfc.nasa.gov/palettes/modis_lst_anom.png,2,2000,8,2020
+Land Surface Temperature Anomaly - Night,MOD_LSTAN_M,https://neo.sci.gsfc.nasa.gov/palettes/modis_lst_anom.png,2,2000,8,2020
+Land Surface Temperature Day - Terra/MODIS,MOD_LSTD_M,https://neo.sci.gsfc.nasa.gov/palettes/modis_lst.png,2,2000,8,2020
+Land Surface Temperature Night - Terra/MODIS,MOD_LSTN_M,https://neo.sci.gsfc.nasa.gov/palettes/modis_lst.png,2,2000,8,2020
+Leaf Area Index - Terra/MODIS,MOD15A2_M_LAI,https://neo.sci.gsfc.nasa.gov/palettes/modis_lai.png,2,2000,1,2017
+Net Primary Productivity - Terra/MODIS,MOD17A2_M_PSN,https://neo.sci.gsfc.nasa.gov/palettes/modis_npp.png,2,2000,10,2016
+Net Radiation ,CERES_NETFLUX_M,https://neo.sci.gsfc.nasa.gov/palettes/ceres_net.png,7,2006,6,2020
+Nitrogen Dioxide,AURA_NO2_M,https://neo.sci.gsfc.nasa.gov/palettes/omi_no2.png,10,2004,8,2020
+Outgoing Longwave Radiation,CERES_LWFLUX_M,https://neo.sci.gsfc.nasa.gov/palettes/ceres_lw.png,7,2006,6,2020
+Ozone,AURA_OZONE_M,https://neo.sci.gsfc.nasa.gov/palettes/omi_ozone_to3.png,10,2004,8,2020
+Permafrost,PermafrostNSIDC,https://neo.sci.gsfc.nasa.gov/palettes/permafrost_ext.png,-1,2002,-1,2002
+Population Density,SEDAC_POP,https://neo.sci.gsfc.nasa.gov/palettes/sedac_pop.png,-1,2000,-1,2000
+Rainfall - TRMM,TRMM_3B43M,https://neo.sci.gsfc.nasa.gov/palettes/trmm_rainfall_m.png,1,1998,7,2016
+Reflected Shortwave Radiation ,CERES_SWFLUX_M,https://neo.sci.gsfc.nasa.gov/palettes/ceres_sw.png,6,2006,6,2020
+Sea Surface Salinity ,AQUARIUS_SSS_M,https://neo.sci.gsfc.nasa.gov/palettes/aquarius_sss.png,8,2011,4,2015
+Sea Surface Temperature - AVHRR ,AVHRR_SST_M,https://neo.sci.gsfc.nasa.gov/palettes/sst_35.png,9,1981,11,2006
+Sea Surface Temperature - Aqua/MODIS,MYD28M,https://neo.sci.gsfc.nasa.gov/palettes/sst_35.png,6,2002,7,2020
+Sea Surface Temperature - MWOI,MWOI_SST_M,https://neo.sci.gsfc.nasa.gov/palettes/sst_35.png,1,1998,10,2016
+Sea Surface Temperature Anomaly,AMSRE_SSTAn_M,https://neo.sci.gsfc.nasa.gov/palettes/amsre_sst_anom.png,6,2002,8,2011
+Snow Cover - Terra/MODIS,MOD10C1_M_SNOW,https://neo.sci.gsfc.nasa.gov/palettes/modis_snow.png,3,2000,8,2020
+Snow Water Equivalent,SWE_M,https://neo.sci.gsfc.nasa.gov/palettes/swe.png,11,1978,2,2005
+Solar Insolation ,CERES_INSOL_M,https://neo.sci.gsfc.nasa.gov/palettes/ceres_insol.png,6,2006,6,2020
+Topography,SRTM_RAMP2_TOPO,https://neo.sci.gsfc.nasa.gov/palettes/srtm_topography.png,-1,2000,-1,2000
+UV Index,AURA_UVI_CLIM_M,https://neo.sci.gsfc.nasa.gov/palettes/omi_uvi.png,1,2010,11,2010
+Vegetation Index - Terra/MODIS,MOD_NDVI_M,https://neo.sci.gsfc.nasa.gov/palettes/modis_ndvi.png,3,2000,7,2020
+Water Equivalent Anomaly ,GRACE_LWE_M,https://neo.sci.gsfc.nasa.gov/palettes/grace_lwe_anom.png,8,2002,11,2016
+Water Vapor - Terra/MODIS,MODAL2_M_SKY_WV,https://neo.sci.gsfc.nasa.gov/palettes/modis_sky_wv.png,2,2000,8,2020
+Water Vapor - Aqua/MODIS,MYDAL2_M_SKY_WV,https://neo.sci.gsfc.nasa.gov/palettes/modis_sky_wv.png,7,2002,8,2020
