@@ -44,7 +44,6 @@ Sea Surface Temperature Anomaly,AMSRE_SSTAn_M,https://neo.sci.gsfc.nasa.gov/pale
 Snow Cover - Terra/MODIS,MOD10C1_M_SNOW,https://neo.sci.gsfc.nasa.gov/palettes/modis_snow.png,3,2000,8,2020
 Snow Water Equivalent,SWE_M,https://neo.sci.gsfc.nasa.gov/palettes/swe.png,11,1978,2,2005
 Solar Insolation ,CERES_INSOL_M,https://neo.sci.gsfc.nasa.gov/palettes/ceres_insol.png,6,2006,6,2020
-Topography,SRTM_RAMP2_TOPO,https://neo.sci.gsfc.nasa.gov/palettes/srtm_topography.png,-1,2000,-1,2000
 UV Index,AURA_UVI_CLIM_M,https://neo.sci.gsfc.nasa.gov/palettes/omi_uvi.png,1,2010,11,2010
 Vegetation Index - Terra/MODIS,MOD_NDVI_M,https://neo.sci.gsfc.nasa.gov/palettes/modis_ndvi.png,3,2000,7,2020
 Water Equivalent Anomaly ,GRACE_LWE_M,https://neo.sci.gsfc.nasa.gov/palettes/grace_lwe_anom.png,8,2002,11,2016
