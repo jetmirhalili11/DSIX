@@ -1,5 +1,4 @@
-# DSIX (YOUTUBE VIDEO LINK DOWN BELOW!!!!)
-Because our local organizers told us to submit projects in 4th October, we weren't able to upload the video in the Team page.
+# DSIX 
 https://www.youtube.com/watch?v=QsuoIeuF8Tw
 
 Because the application was developed with a simple IDE (jGrasp) we do not guarantee that it will work on other IDE's as well.
